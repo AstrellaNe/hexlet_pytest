@@ -1,1 +1,1 @@
-[![GitHub Actions](https://github.com/AstrellaNe/hexlet_pytest/workflows/CI/badge.svg)](https://github.com/AstrellaNe/hexlet_pytest/actions)
+[![Actions Status](https://github.com/AstrellaNe/hexlet_pytest/workflows/actions/badge.svg)](https://github.com/AstrellaNe/hexlet_pytest/actions)
