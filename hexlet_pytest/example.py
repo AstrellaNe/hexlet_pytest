@@ -1,4 +1,16 @@
 def reverse(string):
+    """Reverse string
+
+    >>> reverse('')
+    ''
+
+    >>> reverse('Hexlet')
+    'telxeH'
+    """
+
     return string[::-1]
 
-# print(reverse('My_Pytest'))
+# Нужно для запуска тестов
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
